@@ -1,0 +1,1 @@
+.gitkeep is used to keep track of temporary folders which dont have any file in them yet but we still wants git to track them so that we can push them urgently without any major file in it.
